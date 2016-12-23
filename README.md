@@ -1,5 +1,8 @@
 # wfirst-hls-cosmology.github.io
 This is the repository for the public web page
 
-We are using GitHub markdowns https://guides.github.com/features/mastering-markdown/ within a Jekyll template.
-The template can be configured in the _config
+To create this file we are using the GitHub markdowns https://guides.github.com/features/mastering-markdown/ format within a Jekyll template. The site content is thus in .md files.
+
+* The template can be configured in the _config.yml file.
+* The main page content is accessible in index.md
+* The secondary pages content is accessible in an index.md file within a folder named after each main page, e.g., News, Products, ...
