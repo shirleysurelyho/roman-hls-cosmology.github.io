@@ -22,6 +22,7 @@ We have assembled a team with the expertise and commitment needed to address the
 - George Helou (IPAC/Caltech)
 - Shoubaneh Hemmati (IPAC/Caltech)
 - Shirley Ho (LBL)
+- Eric Huff (JPL)
 - Albert Izard (JPL)
 - Bhuvnesh Jain (Penn)
 - Mike Jarvis (Penn)
