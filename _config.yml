@@ -4,5 +4,17 @@ google_analytics: Cosmology WFIRST BAO baryonic acoustic oscilation GRS galaxy r
 show_downloads: false
 theme: jekyll-theme-cayman
 
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Olivier Dore
+  url:        http://olivierdore.net
+
+# Gems
 gems:
-  - jekyll-mentions
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
