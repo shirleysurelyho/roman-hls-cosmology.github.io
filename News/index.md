@@ -1,9 +1,3 @@
----
-layout: page
-title: News
-permalink: /News/
----
-
 # News
 
 ### 229th American Astronomical Society Meeting, Grapevine, TX:
