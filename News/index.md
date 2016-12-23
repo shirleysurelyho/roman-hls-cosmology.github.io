@@ -17,6 +17,4 @@ Community workshop on _Enabling Cosmological Resonances Between WFIRST and LSST_
 Selection by NASA HQ!
                                                                                                                                                                                                                                                                                                                                                                                                     
 ### November 2015:
-Proposal submitted to NASA to study two topical areas:
-* Galaxy Redshift Survey investigations, using baryon acoustic oscillation (BAO) and/or redshift space distortion (RSD) techniques;
-* Weak Lensing and Cluster Growth investigations.
+Proposal submitted to NASA to study two topical areas: (A) Galaxy Redshift Survey investigations, using baryon acoustic oscillation (BAO) and/or redshift space distortion (RSD) techniques; (B) Weak Lensing and Cluster Growth investigations.
