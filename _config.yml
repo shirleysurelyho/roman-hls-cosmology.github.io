@@ -4,5 +4,9 @@ google_analytics: Cosmology WFIRST BAO baryonic acoustic oscilation GRS galaxy r
 show_downloads: false
 theme: jekyll-theme-cayman
 
+collections:
+- News
+- Products
+
 gems:
   - jekyll-mentions
