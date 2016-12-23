@@ -53,3 +53,6 @@ We have assembled a team with the expertise and commitment needed to address the
 
 ### Contact
 For any question regarding the WFIRST Science Investigation Team, please contact [Olivier Doré](https://github.com/contact). 
+
+***
+![WFIRST Logo](/images/icon_wfirst_logo.png)
