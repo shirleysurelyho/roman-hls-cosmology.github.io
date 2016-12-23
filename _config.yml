@@ -1,7 +1,7 @@
 title: Cosmology with the WFIRST High Latitude Survey
 description: WFIRST Science Investigation Team
 google_analytics: Cosmology WFIRST BAO baryonic acoustic oscilation GRS galaxy redshift survey WL weak gravitational lensing weak large-scale structure
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-cayman
 
 gems:
