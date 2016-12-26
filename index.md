@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ***
 
 ## Explaining the Origin of Cosmic Acceleration with WFIRST
