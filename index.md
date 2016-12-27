@@ -14,7 +14,7 @@ layout: default
 
 * The WFIRST mission, as described in past Science Definition Team (SDT) reports ([Spergel et al. 2013a](https://arxiv.org/abs/1305.5422), [Spergel et al. 2013b](https://arxiv.org/abs/1305.5425), [Spergel et al. 2015](https://arxiv.org/abs/1503.03757)), has the ability to improve these measurements by 1-2 orders of magnitude compared to the current state of the art, while simultaneously extending their redshift grasp, greatly improving control of systematic effects, and taking a unified approach to multiple probes that provide complementary physical information and cross-checks of cosmological results.
 
-* This page describes and hosts the results of the NASA funded Science Investigation Team (SIT) dedicated to study, design and implementat the cosmology program of the High Latitude Survey (HLS) that will account for about 1/3 of the mission's observting time.
+* This page describes and hosts the results of the NASA funded Science Investigation Team (SIT) dedicated to study, design and implement the cosmology program of the High Latitude Survey (HLS) that will account for about 1/3 of the mission observting time.
 
 ***
 
