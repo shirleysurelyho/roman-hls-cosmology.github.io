@@ -4,7 +4,9 @@ layout: default
 
 ***
 
-## Explaining the Origin of Cosmic Acceleration with WFIRST
+# Explaining the Origin of Cosmic Acceleration with WFIRST
+
+***
 
 * Cosmic acceleration is the most surprising cosmological discovery in many decades. 
 
