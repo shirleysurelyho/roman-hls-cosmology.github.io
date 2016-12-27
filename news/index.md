@@ -6,6 +6,8 @@ layout: default
 
 # News
 
+***
+
 ### 229th American Astronomical Society Meeting, Grapevine, TX:
 Co-Investigator _Rachel Mandelbaum_ (CMU) will represent our Science Investigation Team at the special session "WFIRST Status and Science Opportunities" organized by _Neil Gehrels_ (NASA GSFC), 7:30 - 9:00 PM; Grapevine B (Gaylord Texan Resort & Convention Center).
 
