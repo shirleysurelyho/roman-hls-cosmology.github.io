@@ -19,9 +19,4 @@ layout: default
 * This page describes and hosts the results of the NASA funded Science Investigation Team (SIT) dedicated to study, design and implement the cosmology program of the High Latitude Survey (HLS) that will account for about 1/3 of the mission observting time.
 
 ***
-
-### Contact
-For any question regarding the WFIRST Science Investigation Team, please contact [Olivier Doré](https://github.com/contact). 
-
-***
 ![WFIRST Logo](/images/icon_wfirst_logo_green.png)
