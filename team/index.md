@@ -45,4 +45,4 @@ We have assembled a team with the expertise and commitment needed to address the
 - Anja von der Linden (Brookhaven)
 - Yun Wang (IPAC/Caltech, Galaxy redshift survey lead)
 - David Weinberg (OSU, Galaxy clusters lead)
-- Zu Ying (OSU)
+- Ying Zu (OSU)
