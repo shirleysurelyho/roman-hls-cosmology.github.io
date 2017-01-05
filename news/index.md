@@ -8,8 +8,8 @@ layout: default
 
 ***
 
-### 229th American Astronomical Society Meeting, Grapevine, TX:
-Co-Investigator _Rachel Mandelbaum_ (CMU) will represent our Science Investigation Team at the special session "WFIRST Status and Science Opportunities" organized by _Neil Gehrels_ (NASA GSFC), 7:30 - 9:00 PM; Grapevine B (Gaylord Texan Resort & Convention Center).
+### January 2017: 229th American Astronomical Society Meeting, Grapevine, TX:
+Co-Investigator _Rachel Mandelbaum_ (CMU) will represent our Science Investigation Team at the special session "WFIRST Status and Science Opportunities" organized by _Neil Gehrels_ (NASA GSFC), on January 5, 7:30 - 9:00 PM; Grapevine B (Gaylord Texan Resort & Convention Center).
 
 ### December 1st 2016:
 Team delivered to the project office an updated version of the Science Requirement Document. This is the first deliverable our our investigation.
