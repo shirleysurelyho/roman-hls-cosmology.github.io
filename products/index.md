@@ -19,10 +19,10 @@ Please find below some cosmological parameters MCMC chains corresponding to fore
 The tightest constraints on cosmological models including cosmic acceleration, modifid laws of gravity, neutrino physics will come from a joint analysis of multiple cosmological probes. Figure 1 shows the forecasted constraints of "traditional" single probe analyses for clusters (yellow), BAO+RSD (red), and weak lensing (green) and a multi-probe analysis that utilizes these and several other observables that can be extracted from the data: galaxy-galaxy lensing, photometric galaxy, cluster weak lensing, clustering, SN from WFIRST (forecasts from David Rubin and Dan Scolnic), SN from the existing Joint Lightcurve Analysis, existing Baryon Acoustic Oscillation information from BOSS, and CMB information from Planck. These contours show statistical errors only (shape/shot-noise and cosmic variance). Since multi-probe analyses are highly constraining they impose tight requirements on systematics control. Figure 2 compares the this statistical errors only (blue) to forecasts that contain a realistic systematics budget (green). These systematics include uncertainties in the estimation of galaxy shapes and redshifts (photo-z, spec-z), cluster mass calibration, galaxy bias, and intrinsic alignment. Uncertainties due to baryonic effects (SN and AGN feedback, cooling) are not included. It is critical over the coming years to study these uncertainties and to develop the capability to control these systematics at the level of WFIRST multi-probe analyses.
 
 **Figure 1, [Chains](https://www.dropbox.com/sh/3apd0js4ncnwkcj/AADIQY3f73DG84FqVGZVWx_Ga/chains_Fig1_WFIRST_ini_vs_multi_pdf?dl=0)**:
-![Figure 1:](/images/WFIRST_ini_vs_multi.pdf)
+![Figure 1:](../images/WFIRST_ini_vs_multi.pdf)
 
 **Figure 2, [Chains](https://www.dropbox.com/sh/3apd0js4ncnwkcj/AAD_aeLCVlCRoh1gPz2453DNa/chains_Fig2_WFIRST_multi_probe_pdf?dl=0)**
-![Figure 2:](/images/WFIRST_multi_probe.pdf)
+![Figure 2:](../images/WFIRST_multi_probe.pdf)
 
 ***
 
