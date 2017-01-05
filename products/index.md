@@ -31,10 +31,10 @@ The tightest constraints on cosmological models including cosmic acceleration, m
 While cosmic acceleration models have a relatively established parameterization, this is not true for modified gravity theories. Figures 3 and 4 show our first forecasts of modified gravity scenarios, where deviations from Einstein's GR are parameterized through \mu and \Sigma (please see [Joyce, Lombriser & Schmidt 2016](https://arxiv.org/abs/1601.06133) for a quick introduction. Figure 3 shows constraints on these modified gravity parameters for a Weak Lensing+Galaxy-galaxy Lensing+galaxy Clustering (photometric) analysis for the nominal WFIRST survey (2,200 deg.^2) and for 2 extended survey scenarios (5,000 deg.^2 and 10,000 deg.^2, respectively). Figure 4 shows the difference of this multi-probe case to a Weak Lensing only analysis.
 
 **Figure 3, [Chains](https://www.dropbox.com/sh/3apd0js4ncnwkcj/AADW64Oo_ksSMsJBYw5Zip0Ia/chains_Fig3_WFIRST_extended_MG_pdf?dl=0)**:
-![Figure 3:](/images/WFIRST_extended_MG.pdf)
+![Figure 3:](../images/WFIRST_extended_MG.pdf)
 
 **Figure 4, [Chains](https://www.dropbox.com/sh/3apd0js4ncnwkcj/AACRxHbP57_RcRkjg12oAAaYa/chains_Fig4_WFIRST_shear_vs_MP_pdf?dl=0)**:
-![Figure 4:](/images/WFIRST_shear_vs_MP.pdf)
+![Figure 4:](../images/WFIRST_shear_vs_MP.pdf)
 
 ***
 
