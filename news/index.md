@@ -15,7 +15,7 @@ Co-Investigator _Rachel Mandelbaum_ (CMU) will represent our Science Investigati
 Team delivered to the project office an updated version of the Science Requirement Document. This is the first deliverable our our investigation.
 
 ### November, December 2016:
-Postdoctoral reseacher Amy Choi (OSU), Shoubaneh Hemmati (IPAC/Caltech), Albert Izard (JPL), Nial MacCrann (OSU), Elena Massara (LBL), Alex Merson (IPAC/Caltech), Andres Plazas Malagon (JPL/Caltech), Melanie Simet (UCR/JPL), Michael Troxel (OSU), Zu Ying (OSU) joined our team. Welcome on board!
+Postdoctoral reseacher Amy Choi (OSU), Shoubaneh Hemmati (Caltech/IPAC), Albert Izard (JPL), Niall MacCrann (OSU), Elena Massara (LBL), Alex Merson (Caltech/IPAC), Andres Plazas Malagon (JPL/Caltech), Melanie Simet (UCR/JPL), Michael Troxel (OSU), Ying Zu (OSU) joined our team. Welcome on board!
 
 ### September 2016:
 Community workshop on _Enabling Cosmological Resonances Between WFIRST and LSST_ in Pasadena on Sept. 13-15. Agenda and slides are available [here](https://conference.ipac.caltech.edu/wfirst_lsst/).
