@@ -10,7 +10,7 @@ layout: default
 
 Our Science Investigation Team will release codes, products and artificial data sets, with the goals of building awareness of and broad support for the WFIRST dark energy program and inspiring the community to develop methods and carry out investigations that will maximize the cosmological return from WFIRST.
 
-## Cosmological parameters forecast chains (Last updates on 01/05/17)
+## Cosmological parameters forecast chains (last updated on 01/05/17)
 
 Please find below some cosmological parameters MCMC chains corresponding to forecast for the current survey of the WFIRST High Latitude Survey, combining weak-gravitational lensing (WL), cluster count (CC) and redshift space distortions (GRS). These chains were computed using the CosmoLike software [Krause & Eifler 2016](https://arxiv.org/abs/1601.05779).
 
