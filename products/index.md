@@ -34,7 +34,7 @@ While cosmic acceleration models have a relatively established parameterization,
 ![Figure 3:](/images/WFIRST_extended_MG.pdf)
 
 **Figure 4, [Chains](https://www.dropbox.com/sh/3apd0js4ncnwkcj/AACRxHbP57_RcRkjg12oAAaYa/chains_Fig4_WFIRST_shear_vs_MP_pdf?dl=0)**:
-![Figure 4:](/images/WFIRST_shear_vs_MP.pdf)
+![Figure 4:](/images/WFIRST_shear_vs_MP.png)
 
 ***
 
