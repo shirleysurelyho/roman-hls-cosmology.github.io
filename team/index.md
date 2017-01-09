@@ -42,7 +42,7 @@ We have assembled a team with the expertise and commitment needed to address the
 - David Spergel (Princeton, CCA)
 - Harry Teplitz (Caltech/IPAC)
 - Michael Troxel (OSU)
-- Anja von der Linden (Brookhaven)
+- Anja von der Linden (Stony Brook University)
 - Yun Wang (Caltech/IPAC, Galaxy redshift survey lead)
 - David Weinberg (OSU, Galaxy clusters lead)
 - Ying Zu (OSU)
