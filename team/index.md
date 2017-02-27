@@ -26,6 +26,7 @@ We have assembled a team with the expertise and commitment needed to address the
 - Alina Kiessling (JPL/Caltech)
 - Elisabeth Krause (Stanford)
 - Chris Hirata (OSU, Weak lensing lead)
+- Alexie Leauthaud (UCSC)
 - Robert Lupton (Princeton)
 - Niall MacCrann (OSU)
 - Rachel Mandelbaum (CMU)
