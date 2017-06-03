@@ -20,6 +20,7 @@ We have assembled a team with the expertise and commitment needed to address the
 - Katrin Heitmann (ANL)
 - George Helou (Caltech/IPAC)
 - Shoubaneh Hemmati (IPAC/Caltech)
+- Eric Huff (JPL)
 - Shirley Ho (LBL)
 - Albert Izard (JPL)
 - Bhuvnesh Jain (Penn)
