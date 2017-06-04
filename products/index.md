@@ -10,6 +10,14 @@ layout: default
 
 Our Science Investigation Team will release codes, products and artificial data sets, with the goals of building awareness of and broad support for the WFIRST dark energy program and inspiring the community to develop methods and carry out investigations that will maximize the cosmological return from WFIRST.
 
+## A WFIRST module has been added to the GalSim package
+
+GalSim is an open-source software for simulating images of astronomical objects (stars, galaxies) in a variety of ways. The bulk of the calculations are carried out in C++, and the user interface is in python. In addition, the code can operate directly on "config" files, for those users who prefer not to work in python. The impetus for the software package was a weak lensing community data challenge, called [GREAT3[(http://great3challenge.info/). 
+
+However, the code has numerous additional capabilities beyond those needed for the challenge, and has been useful for a number of projects that needed to simulate high-fidelity galaxy images with accurate sizes and shears. At the end of this file, there is a list of the code capabilities and plans for future development. For details of algorithms and code validation, please see [Rowe et al. 2015](http://adsabs.harvard.edu/abs/2015A%26C....10..121R).
+
+The GalSim sofware package including the WFIRST module is available [here](http://galsim-developers.github.io/GalSim/index.html).
+
 ## Cosmological parameters forecast chains (last updated on 01/05/17)
 
 Please find below some cosmological parameters MCMC chains corresponding to forecast for the current survey of the WFIRST High Latitude Survey, combining weak-gravitational lensing (WL), cluster count (CC) and redshift space distortions (GRS). These chains were computed using the CosmoLike software [Krause & Eifler 2016](https://arxiv.org/abs/1601.05779).
