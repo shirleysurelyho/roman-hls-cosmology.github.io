@@ -16,7 +16,7 @@ GalSim is an open-source software for simulating images of astronomical objects 
 
 However, the code has numerous additional capabilities beyond those needed for the challenge, and has been useful for a number of projects that needed to simulate high-fidelity galaxy images with accurate sizes and shears. For details of algorithms and code validation, please see [Rowe et al. 2015](http://adsabs.harvard.edu/abs/2015A%26C....10..121R).
 
-The GalSim sofware package including the WFIRST module is available [here](https://github.com/GalSim-developers/GalSim). The versions past v1.4 include a WFIRST module. This module will be periodically updated by SIT members as the WFIRST hardware and survey parameters are adjusted. The next update is planned for June 2017.
+The GalSim sofware package including the WFIRST module is available [here](https://github.com/GalSim-developers/GalSim). The versions past v1.4 include a WFIRST module and was started before this SIT started. This module will now be periodically updated by SIT members as the WFIRST hardware and survey parameters are adjusted. The next update is planned for June 2017.
 
 ## Cosmological parameters forecast chains (last updated on 01/05/17)
 
