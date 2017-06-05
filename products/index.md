@@ -12,11 +12,11 @@ Our Science Investigation Team will release codes, products and artificial data 
 
 ## A WFIRST module has been added to the GalSim package
 
-GalSim is an open-source software for simulating images of astronomical objects (stars, galaxies) in a variety of ways. The bulk of the calculations are carried out in C++, and the user interface is in python. In addition, the code can operate directly on "config" files, for those users who prefer not to work in python. The impetus for the software package was a weak lensing community data challenge, called [GREAT3[(http://great3challenge.info/). 
+GalSim is an open-source software for simulating images of astronomical objects (stars, galaxies) in a variety of ways. The bulk of the calculations are carried out in C++, and the user interface is in python. In addition, the code can operate directly on "config" files, for those users who prefer not to work in python. The impetus for the software package was a weak lensing community data challenge, called [GREAT3](http://great3challenge.info/). 
 
-However, the code has numerous additional capabilities beyond those needed for the challenge, and has been useful for a number of projects that needed to simulate high-fidelity galaxy images with accurate sizes and shears. At the end of this file, there is a list of the code capabilities and plans for future development. For details of algorithms and code validation, please see [Rowe et al. 2015](http://adsabs.harvard.edu/abs/2015A%26C....10..121R).
+However, the code has numerous additional capabilities beyond those needed for the challenge, and has been useful for a number of projects that needed to simulate high-fidelity galaxy images with accurate sizes and shears. For details of algorithms and code validation, please see [Rowe et al. 2015](http://adsabs.harvard.edu/abs/2015A%26C....10..121R).
 
-The GalSim sofware package including the WFIRST module is available [here](http://galsim-developers.github.io/GalSim/index.html).
+The GalSim sofware package including the WFIRST module is available [here](https://github.com/GalSim-developers/GalSim). The versions past v1.4 include a WFIRST module. This module will be periodically updated by SIT members as the WFIRST hardware and survey parameters are adjusted. The next update is planned for June 2017.
 
 ## Cosmological parameters forecast chains (last updated on 01/05/17)
 
