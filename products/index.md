@@ -12,7 +12,7 @@ Our Science Investigation Team will release codes, products and artificial data 
 
 ***
 
-## LSST+ WFIRST Simulated Photometric Catalogs (*Peter Capak, Shoubaneh Hemmati, Dan Masters*) (last updated on 08/02/17).
+## LSST+ WFIRST Simulated Photometric Catalogs (*Peter Capak, Shoubaneh Hemmati, Dan Masters*, last updated on 08/02/17).
 
 ### [WFIRST+LSST simulated photometry catalog based on CANDELS, COSMOS, SXDS and VVDS](https://www.dropbox.com/s/tgfkrpotjyjfe16/WFIRST_sim_3.8sqdeg_v0.0.fits?dl=0).
 
