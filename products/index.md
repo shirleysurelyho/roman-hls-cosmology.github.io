@@ -31,9 +31,9 @@ Here are the magnitude histograms, a color-color plot and magnitude error vs. ma
 This catalog is not yet used for any major science, please direct any issues found and/or suggestions to shemmati@ipac.caltech.edu. 
 
 
-## [WFIRST+LSST simulated photometry catalog based on CANDELS](https://www.dropbox.com/s/8m5fv5gn26ghp4i/WFIRST_CANDELSbased_sim_0.2sqdeg_v0.0.fits?dl=0).
+### [WFIRST+LSST simulated photometry catalog based on CANDELS](https://www.dropbox.com/s/8m5fv5gn26ghp4i/WFIRST_CANDELSbased_sim_0.2sqdeg_v0.0.fits?dl=0).
 
-### The **second** catalog (WFIRST_CANDELSbased_sim_0.2sqdeg_v0.0.fits) also includes photometry in LSST(u,g,r,i,z) and WFIRST(Y,J,H,F184W) filter sets in AB magnitudes as well as estimate of photometric redshifts, spec-zs when available and HST F160W, FWHM. The sources here are those in the five CANDELS fields (GOODS-S, GOODS-N, EGS, UDS and COSMOS) covering ~0.2 deg-sq. CANDELS photometric catalogs are published in GOODS-S, COSMOS, UDS and EGS and will be published in GOODS-N soon. In cases where the photometry in a WFIRST or LSST filter could not be measured using the neighboring filters in the CANDELS due to non detections, magnitude is set to 99.0 and limiting magnitude in the closest band is recorded as the error. A lensing cut is applied to this catalog based on (J+H) magnitudes and sizes (private communications with C. Hirata) and only sources meeting the lensing criteria are kept in this catalog with a total of ~44,000 sources. 
+#### The **second** catalog (WFIRST_CANDELSbased_sim_0.2sqdeg_v0.0.fits) also includes photometry in LSST(u,g,r,i,z) and WFIRST(Y,J,H,F184W) filter sets in AB magnitudes as well as estimate of photometric redshifts, spec-zs when available and HST F160W, FWHM. The sources here are those in the five CANDELS fields (GOODS-S, GOODS-N, EGS, UDS and COSMOS) covering ~0.2 deg-sq. CANDELS photometric catalogs are published in GOODS-S, COSMOS, UDS and EGS and will be published in GOODS-N soon. In cases where the photometry in a WFIRST or LSST filter could not be measured using the neighboring filters in the CANDELS due to non detections, magnitude is set to 99.0 and limiting magnitude in the closest band is recorded as the error. A lensing cut is applied to this catalog based on (J+H) magnitudes and sizes (private communications with C. Hirata) and only sources meeting the lensing criteria are kept in this catalog with a total of ~44,000 sources. 
 
 If you used these catalogs in publications, please site Hemmati et al. (in prep), where the catalogs are used to find the WFIRST photometric redshift calibration requirements. 
 
@@ -48,6 +48,8 @@ GalSim is an open-source software for simulating images of astronomical objects 
 However, the code has numerous additional capabilities beyond those needed for the challenge, and has been useful for a number of projects that needed to simulate high-fidelity galaxy images with accurate sizes and shears. For details of algorithms and code validation, please see [Rowe et al. 2015](http://adsabs.harvard.edu/abs/2015A%26C....10..121R).
 
 The GalSim sofware package including the WFIRST module is available [here](https://github.com/GalSim-developers/GalSim). The versions past v1.4 include a WFIRST module and was started before this SIT started. This module will now be periodically updated by SIT members as the WFIRST hardware and survey parameters are adjusted. The next update is planned for June 2017.
+
+***
 
 ## Cosmological parameters forecast chains (last updated on 01/05/17)
 
