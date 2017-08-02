@@ -10,6 +10,45 @@ layout: default
 
 Our Science Investigation Team will release codes, products and artificial data sets, with the goals of building awareness of and broad support for the WFIRST dark energy program and inspiring the community to develop methods and carry out investigations that will maximize the cosmological return from WFIRST.
 
+***
+
+## LSST+ WFIRST Simulated Photometric Catalogs (__Peter Capak, Shoubaneh Hemmati, Dan Masters__) (last updated on 08/02/17).
+
+### [WFIRST+LSST simulated photometry catalog based on CANDELS, COSMOS, SXDS and VVDS](https://www.dropbox.com/s/tgfkrpotjyjfe16/WFIRST_sim_3.8sqdeg_v0.0.fits?dl=0).
+
+#### The **first** catalog (WFIRST_sim_3.8sqdeg_v0.0.fits) includes photometry estimates in LSST(u,g,r,i,z) and WFIRST(Y,J,H,F184W) filter sets in AB magnitudes as well as estimate of photometric redshifts. This corresponds to 3.8 deg-sq in the sky from the combination of galaxies in the COSMOS (2 deg-sq), SXDS (0.8 deg-sq) and VVDS (1.0 deg-sq) fields with (RIZ <25 AB) with fainter (RIZ>25 AB) sources added based on CANDELS survey in five fields (GOODS-S, GOODS-N, EGS, UDS and COSMOS total of 0.2 deg-sq) boosted 19 times to match the area. Faint sources are added based on the density and colors of CANDELS galaxies on a Self Organizing Map (SOM) we generated for the CANDELS survey (plots and more details below). The final catalog contains ~2,200,000 sources where ~1,600,000 are based on CANDELS and the rest are brighter sources from the other three fields. We have not applied any cuts on magnitude in this catalog and it goes deeper compared to expected depths of LSST and WFIRST, however the photometric errors in each filter are assigned pseudorandomly based on the magnitude and expected depth in each filter. 
+
+To boost the number of CANDELS galaxies to match the combined area of COSMOS, SXDS and VVDS we need to know the approximate density of various kinds of galaxies. SOMs trained by colors of galaxies will organize galaxies based on their SED shape and therefore the density of galaxies in each cell represents the approximate density of different kinds of galaxies. CANDELS SOM is chosen as a 150x120 rectangular grid and is trained by 8 colors of LSST and WFIRST filters (u-g,g-r,r-i,i-z,z-y,y-j,j-h,h-f184w) until the wight dimensional weight vectors of the SOM cells represent the color distribution of CANDELS galaxies. At each cell we generate 19 x density of cell, SEDs based on the SED of the cell, slightly perturbed by photometric errors. An RIZ>25 cut is then applied to the area boosted CANDELS catalog before adding it to the COSMOS, SXDS and VVDS. Below, see the median g-r color of CANDELS galaxies on the SOM (left) and the g-r weight of the trained SOM (right):
+
+![Figure 1](https://github.com/xoubish/Plots/blob/master/g-r.png)
+
+Here are the magnitude histograms, a color-color plot and magnitude error vs. magnitude plots from this catalog.
+
+![Figure 2](https://github.com/xoubish/Plots/blob/master/magdist.png)
+![Figure 3](https://github.com/xoubish/Plots/blob/master/col-col.png)
+![Figure 4](https://github.com/xoubish/Plots/blob/master/magerr.png)
+
+This catalog is not yet used for any major science, please direct any issues found and/or suggestions to shemmati@ipac.caltech.edu. 
+
+
+## [WFIRST+LSST simulated photometry catalog based on CANDELS](https://www.dropbox.com/s/8m5fv5gn26ghp4i/WFIRST_CANDELSbased_sim_0.2sqdeg_v0.0.fits?dl=0).
+
+### The **second** catalog (WFIRST_CANDELSbased_sim_0.2sqdeg_v0.0.fits) also includes photometry in LSST(u,g,r,i,z) and WFIRST(Y,J,H,F184W) filter sets in AB magnitudes as well as estimate of photometric redshifts, spec-zs when available and HST F160W, FWHM. The sources here are those in the five CANDELS fields (GOODS-S, GOODS-N, EGS, UDS and COSMOS) covering ~0.2 deg-sq. CANDELS photometric catalogs are published in GOODS-S, COSMOS, UDS and EGS and will be published in GOODS-N soon. In cases where the photometry in a WFIRST or LSST filter could not be measured using the neighboring filters in the CANDELS due to non detections, magnitude is set to 99.0 and limiting magnitude in the closest band is recorded as the error. A lensing cut is applied to this catalog based on (J+H) magnitudes and sizes (private communications with C. Hirata) and only sources meeting the lensing criteria are kept in this catalog with a total of ~44,000 sources. 
+
+If you used these catalogs in publications, please site Hemmati et al. (in prep), where the catalogs are used to find the WFIRST photometric redshift calibration requirements. 
+
+### We will have simulations based on the SPHEREx model and emission line measurements for OII, OIII, Halpha, Hbeta from COSMOS.
+
+***
+
+## A WFIRST module has been added to the GalSim package
+
+GalSim is an open-source software for simulating images of astronomical objects (stars, galaxies) in a variety of ways. The bulk of the calculations are carried out in C++, and the user interface is in python. In addition, the code can operate directly on "config" files, for those users who prefer not to work in python. The impetus for the software package was a weak lensing community data challenge, called [GREAT3](http://great3challenge.info/). 
+
+However, the code has numerous additional capabilities beyond those needed for the challenge, and has been useful for a number of projects that needed to simulate high-fidelity galaxy images with accurate sizes and shears. For details of algorithms and code validation, please see [Rowe et al. 2015](http://adsabs.harvard.edu/abs/2015A%26C....10..121R).
+
+The GalSim sofware package including the WFIRST module is available [here](https://github.com/GalSim-developers/GalSim). The versions past v1.4 include a WFIRST module and was started before this SIT started. This module will now be periodically updated by SIT members as the WFIRST hardware and survey parameters are adjusted. The next update is planned for June 2017.
+
 ## Cosmological parameters forecast chains (last updated on 01/05/17)
 
 Please find below some cosmological parameters MCMC chains corresponding to forecast for the current survey of the WFIRST High Latitude Survey, combining weak-gravitational lensing (WL), cluster count (CC) and redshift space distortions (GRS). These chains were computed using the CosmoLike software [Krause & Eifler 2016](https://arxiv.org/abs/1601.05779).
