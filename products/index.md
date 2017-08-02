@@ -12,7 +12,7 @@ Our Science Investigation Team will release codes, products and artificial data 
 
 ***
 
-## LSST+ WFIRST Simulated Photometric Catalogs (__Peter Capak, Shoubaneh Hemmati, Dan Masters__) (last updated on 08/02/17).
+## LSST+ WFIRST Simulated Photometric Catalogs (*Peter Capak, Shoubaneh Hemmati, Dan Masters*) (last updated on 08/02/17).
 
 ### [WFIRST+LSST simulated photometry catalog based on CANDELS, COSMOS, SXDS and VVDS](https://www.dropbox.com/s/tgfkrpotjyjfe16/WFIRST_sim_3.8sqdeg_v0.0.fits?dl=0).
 
@@ -20,13 +20,13 @@ Our Science Investigation Team will release codes, products and artificial data 
 
 To boost the number of CANDELS galaxies to match the combined area of COSMOS, SXDS and VVDS we need to know the approximate density of various kinds of galaxies. SOMs trained by colors of galaxies will organize galaxies based on their SED shape and therefore the density of galaxies in each cell represents the approximate density of different kinds of galaxies. CANDELS SOM is chosen as a 150x120 rectangular grid and is trained by 8 colors of LSST and WFIRST filters (u-g,g-r,r-i,i-z,z-y,y-j,j-h,h-f184w) until the wight dimensional weight vectors of the SOM cells represent the color distribution of CANDELS galaxies. At each cell we generate 19 x density of cell, SEDs based on the SED of the cell, slightly perturbed by photometric errors. An RIZ>25 cut is then applied to the area boosted CANDELS catalog before adding it to the COSMOS, SXDS and VVDS. Below, see the median g-r color of CANDELS galaxies on the SOM (left) and the g-r weight of the trained SOM (right):
 
-![Figure 1](https://github.com/xoubish/Plots/blob/master/g-r.png)
+![Figure 1](/images/g-r.png)
 
 Here are the magnitude histograms, a color-color plot and magnitude error vs. magnitude plots from this catalog.
 
-![Figure 2](https://github.com/xoubish/Plots/blob/master/magdist.png)
-![Figure 3](https://github.com/xoubish/Plots/blob/master/col-col.png)
-![Figure 4](https://github.com/xoubish/Plots/blob/master/magerr.png)
+![Figure 2](/images/magdist.png)
+![Figure 3](/images/col-col.png)
+![Figure 4](/images/magerr.png)
 
 This catalog is not yet used for any major science, please direct any issues found and/or suggestions to shemmati@ipac.caltech.edu. 
 
