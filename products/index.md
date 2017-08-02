@@ -24,8 +24,7 @@ To boost the number of CANDELS galaxies to match the combined area of COSMOS, SX
 
 Here are the magnitude histograms, a color-color plot and magnitude error vs. magnitude plots from this catalog.
 
-![Figure 2](/images/magdist.png)
-![Figure 3](/images/col-col.png)
+![Figure 3](/images/UGR.png)
 ![Figure 4](/images/magerr.png)
 
 This catalog is not yet used for any major science, please direct any issues found and/or suggestions to shemmati@ipac.caltech.edu. 
