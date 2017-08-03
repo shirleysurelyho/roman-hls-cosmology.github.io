@@ -19,7 +19,7 @@ Our Science Investigation Team will host frequent community workshops with the g
 
 This workshop will focus on synergies between the unprecedented survey speed of WFIRST in the near-infrared and other contemporary and future multi-wavelength facilities for extra-galactic science and cosmology. The goal is to guide planning of the 2000 sq. deg. High-Latitude Survey (HLS) and the Supernova survey to maximize synergies with other facilities.  We will also explore how future facilities could enhance and enable science with WFIRST and guide the design of WFIRST to enable new science.
 
-                        *Peter Capak, Olivier Doré*
+Peter Capak, Olivier Doré
 
 #### Registration
 
@@ -28,7 +28,7 @@ Please use the following link to register to this meeting. The workshop will be 
 
 #### Agenda
 
-To be posted shortlty.
+To be posted.
 
 #### Location and Logistics
 
