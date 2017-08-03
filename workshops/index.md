@@ -13,7 +13,7 @@ Our Science Investigation Team will host frequent community workshops with the g
 ---
 ---
 
-## Enforcing Extra-galactoc Synergies between WFIRST and Future Facilities, September 14-15, 2017, Pasadena, CA
+## Exploiting Extra-galactic Synergies between WFIRST and Future Facilities, September 14-15, 2017, Pasadena, CA
 
 #### Workshop Goal
 
@@ -23,7 +23,8 @@ This workshop will focus on synergies between the unprecedented survey speed of 
 
 #### Registration
 
-Please use the following link to register to this meeting. The room we wi 
+Please use the following link to register to this meeting. The workshop will be limited to 60 participants.
+
 
 #### Agenda
 
