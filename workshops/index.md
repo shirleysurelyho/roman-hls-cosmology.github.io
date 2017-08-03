@@ -13,7 +13,7 @@ Our Science Investigation Team will host frequent community workshops with the g
 ---
 ---
 
-## Exploiting Extra-galactic Synergies between WFIRST and Future Facilities, *September 14-15, 2017, Pasadena, CA*
+## Second Community Workshop: Exploiting Extra-galactic Synergies between WFIRST and Future Facilities, *September 14-15, 2017, Pasadena, CA*
 
 #### Workshop Goal
 
@@ -23,8 +23,7 @@ This workshop will focus on synergies between the unprecedented survey speed of 
 
 #### Registration
 
-Please use the following link to register to this meeting. The workshop will be limited to 60 participants.
-
+Please use the following link to register to this meeting: [link](https://docs.google.com/forms/d/e/1FAIpQLScSsElS-ffQgS_ncC_pYjllPW8Q_BlkwT-bXqEChPevrMmk3A/viewform?usp=sf_link) . The workshop will be limited to 60 participants.
 
 #### Agenda
 
@@ -38,9 +37,9 @@ Details to follow soon.
 ---
 ---
 
-## Enabling Cosmological Resonances Between WFIRST and LSST, September 13, 2016 - September 15, 2016, Pasadena, CA
+## First Community Workshop: Enabling Cosmological Resonances Between WFIRST and LSST, September 13, 2016 - September 15, 2016, Pasadena, CA
 
-This science-focused workshop will explore the scientific synergies between LSST and WFIRST, with a focus on cosmology. It is jointly organized by the WFIRST HLS Cosmology Science Investigation Team (SIT) and the LSST Dark Energy Science Collaboration (DESC). Presentations and agenda are available https://conference.ipac.caltech.edu/wfirst_lsst/ .
+This science-focused workshop will explore the scientific synergies between LSST and WFIRST, with a focus on cosmology. It is jointly organized by the WFIRST HLS Cosmology Science Investigation Team (SIT) and the LSST Dark Energy Science Collaboration (DESC). Presentations and agenda are available <https://conference.ipac.caltech.edu/wfirst_lsst/>.
 
 ---
 ---
