@@ -31,6 +31,10 @@ Please use the following link to register to this meeting: [link](https://docs.g
 
 The workshop will take two full days and include a presentation and discussion sessions. Details will be posted shortly.
 
+#### Participants
+
+To be updated shortly.
+
 #### Location and Logistics
 
 Details to follow soon.
