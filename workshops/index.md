@@ -13,13 +13,13 @@ Our Science Investigation Team will host frequent community workshops with the g
 ---
 ---
 
-## Exploiting Extra-galactic Synergies between WFIRST and Future Facilities, September 14-15, 2017, Pasadena, CA
+## Exploiting Extra-galactic Synergies between WFIRST and Future Facilities, *September 14-15, 2017, Pasadena, CA*
 
 #### Workshop Goal
 
 This workshop will focus on synergies between the unprecedented survey speed of WFIRST in the near-infrared and other contemporary and future multi-wavelength facilities for extra-galactic science and cosmology. The goal is to guide planning of the 2000 sq. deg. High-Latitude Survey (HLS) and the Supernova survey to maximize synergies with other facilities.  We will also explore how future facilities could enhance and enable science with WFIRST and guide the design of WFIRST to enable new science.
 
-Peter Capak, Olivier Doré
+*Peter Capak, Olivier Doré*
 
 #### Registration
 
