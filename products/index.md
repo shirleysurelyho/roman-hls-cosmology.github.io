@@ -11,6 +11,7 @@ layout: default
 Our Science Investigation Team will release codes, products and artificial data sets, with the goals of building awareness of and broad support for the WFIRST dark energy program and inspiring the community to develop methods and carry out investigations that will maximize the cosmological return from WFIRST.
 
 ***
+***
 
 ## LSST+ WFIRST Simulated Photometric Catalogs (*Peter Capak, Shoubaneh Hemmati, Dan Masters*, last updated on 08/02/17).
 
@@ -39,6 +40,7 @@ If you used these catalogs in publications, please site Hemmati et al. (in prep)
 ### We will have simulations based on the SPHEREx model and emission line measurements for OII, OIII, Halpha, Hbeta from COSMOS.
 
 ***
+***
 
 ## A WFIRST module has been added to the GalSim package
 
@@ -48,6 +50,7 @@ However, the code has numerous additional capabilities beyond those needed for t
 
 The GalSim sofware package including the WFIRST module is available [here](https://github.com/GalSim-developers/GalSim). The versions past v1.4 include a WFIRST module and was started before this SIT started. This module will now be periodically updated by SIT members as the WFIRST hardware and survey parameters are adjusted. The next update is planned for June 2017.
 
+***
 ***
 
 ## Cosmological parameters forecast chains (last updated on 01/05/17)
@@ -64,6 +67,7 @@ The tightest constraints on cosmological models including cosmic acceleration, m
 **Figure 2, [Chains](https://www.dropbox.com/sh/3apd0js4ncnwkcj/AAD_aeLCVlCRoh1gPz2453DNa/chains_Fig2_WFIRST_multi_probe_pdf?dl=0)**
 ![Figure 2:](/images/WFIRST_multi_probe.png)
 
+***
 ***
 
 ### WFIRST modified gravity studies
