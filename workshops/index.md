@@ -25,7 +25,8 @@ Surveys of particular focus will include LSST, Euclid, Spitzer, JWST, HSC/PFS, S
 
 #### Registration
 
-Please use the following link to register to this meeting: [link](https://docs.google.com/forms/d/e/1FAIpQLScSsElS-ffQgS_ncC_pYjllPW8Q_BlkwT-bXqEChPevrMmk3A/viewform?usp=sf_link) . The workshop will be limited to 60 participants.
+The workshop will be limited to 60 participants and is by invitation only. Please contact the organizers if you are interested in attending.
+<! Please use the following link to register to this meeting: [link](https://docs.google.com/forms/d/e/1FAIpQLScSsElS-ffQgS_ncC_pYjllPW8Q_BlkwT-bXqEChPevrMmk3A/viewform?usp=sf_link) >
 
 #### Agenda
 
