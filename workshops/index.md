@@ -13,7 +13,7 @@ Our Science Investigation Team will host frequent community workshops with the g
 ---
 ---
 
-## Second Community Workshop: **Exploiting Extra-galactic Synergies between WFIRST and Future Facilities**, *September 14-15, 2017, Pasadena, CA*
+## Second Community Workshop: **Exploiting Extra-galactic Synergies between WFIRST and Future Facilities**, *Meeting postponed (new date to be announced shortly), Pasadena, CA*
 
 #### Goal
 
