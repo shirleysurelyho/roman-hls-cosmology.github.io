@@ -17,6 +17,7 @@ We have assembled a team with the expertise and commitment needed to address the
 - Ami Choi (OSU)
 - Olivier Doré (JPL/Caltech, PI)
 - Tim Eifler (JPL/Caltech)
+- Chen He Heinrich (JPL/Caltech)
 - Katrin Heitmann (ANL)
 - George Helou (Caltech/IPAC)
 - Shoubaneh Hemmati (IPAC/Caltech)
@@ -48,4 +49,5 @@ We have assembled a team with the expertise and commitment needed to address the
 - Anja von der Linden (Stony Brook University)
 - Yun Wang (Caltech/IPAC, Galaxy redshift survey lead)
 - David Weinberg (OSU, Galaxy clusters lead)
+- Hao-Yi Wu (OSU)
 - Ying Zu (OSU)
