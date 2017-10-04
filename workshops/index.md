@@ -32,9 +32,42 @@ The workshop will be limited to 60 participants and is by invitation only. Pleas
 
 The workshop will take two full days and include a presentation and discussion sessions. Details will be posted shortly.
 
-#### Participants
+#### Participants (as of 10/04/17)
 
-To be updated as shortly.
+* Caitlin Casey (UT Austin)
+* Tzu-Ching Chang (JPL/Caltech)
+* Judith Cohen (Caltech)
+* Masahiro Takada (IPMU)
+* Simone Ferraro (UCB)
+* George Helou (IPAC Caltech)
+* Chen He Heinrich (JPL/Caltech)
+* Emmanuel Schaan (UCB)
+* Ryan Foley (UCSC)
+* Sunil Golwala (Caltech)
+* Eric Murphy (NRAO)
+* Shoubaneh Hemmati (IPAC Caltech)
+* Jeffrey Newman (Univ. Pittsburgh)
+* Jason Rhodes (JPL)
+* Peter Melchior (Princeton)
+* Alina Kiessling (JPL)
+* Masamune Oguri (Univ. Tokyo)
+* Itsvan Szapudi (IfA, Univ. Hawaii)
+* Chris Carilli (NRAO)
+* Anton Koekemoer (STScI)
+* Olivier Doré (JPL/Caltech)
+* Daniel Stern (JPL/Caltech)
+* Patt Hall (York Univ.)
+* Patrick Cote (NRC Canada)
+* Yun Wang (IPAC, Caltech)
+* Jeff Kruk (GSFC)
+* Brant Robertson (UCSC)
+* Bryan Scott (UCR)
+* Abtin Shahidi (UCR)
+* John Silverman (IPMU)
+* Chartab Soltani (UCR)
+* David Spergel (CCA, Princeton) (TBC)
+
+
 
 #### Location and Logistics
 
