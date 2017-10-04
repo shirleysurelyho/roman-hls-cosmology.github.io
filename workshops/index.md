@@ -34,45 +34,42 @@ The workshop will take two full days and include a presentation and discussion s
 
 #### Participants (as of 10/04/17)
 
+* Chris Carilli (NRAO)
 * Caitlin Casey (UT Austin)
 * Tzu-Ching Chang (JPL/Caltech)
 * Judith Cohen (Caltech)
-* Masahiro Takada (IPMU)
+* Patrick Cote (NRC Canada)
+* Olivier Doré (JPL/Caltech)
 * Simone Ferraro (UCB)
-* George Helou (IPAC Caltech)
-* Chen He Heinrich (JPL/Caltech)
-* Emmanuel Schaan (UCB)
 * Ryan Foley (UCSC)
 * Sunil Golwala (Caltech)
-* Eric Murphy (NRAO)
-* Shoubaneh Hemmati (IPAC Caltech)
-* Jeffrey Newman (Univ. Pittsburgh)
-* Jason Rhodes (JPL)
-* Peter Melchior (Princeton)
-* Alina Kiessling (JPL)
-* Masamune Oguri (Univ. Tokyo)
-* Itsvan Szapudi (IfA, Univ. Hawaii)
-* Chris Carilli (NRAO)
-* Anton Koekemoer (STScI)
-* Olivier Doré (JPL/Caltech)
-* Daniel Stern (JPL/Caltech)
 * Patt Hall (York Univ.)
-* Patrick Cote (NRC Canada)
-* Yun Wang (IPAC, Caltech)
+* George Helou (IPAC Caltech)
+* Chen He Heinrich (JPL/Caltech)
+* Shoubaneh Hemmati (IPAC Caltech)
+* Alina Kiessling (JPL)
+* Anton Koekemoer (STScI)
 * Jeff Kruk (GSFC)
+* Peter Melchior (Princeton)
+* Eric Murphy (NRAO)
+* Jeffrey Newman (Univ. Pittsburgh)
+* Masamune Oguri (Univ. Tokyo)
+* Jason Rhodes (JPL)
 * Brant Robertson (UCSC)
+* Emmanuel Schaan (UCB)
 * Bryan Scott (UCR)
 * Abtin Shahidi (UCR)
 * John Silverman (IPMU)
 * Chartab Soltani (UCR)
 * David Spergel (CCA, Princeton) (TBC)
-
-
+* Daniel Stern (JPL/Caltech)
+* Itsvan Szapudi (IfA, Univ. Hawaii)
+* Masahiro Takada (IPMU)
+* Yun Wang (IPAC, Caltech)
 
 #### Location and Logistics
 
-Details to follow soon.
-
+The workshop will be generously hosted by the Keck Institute for Space Science <http://kiss.caltech.edu>.
 
 ---
 ---
