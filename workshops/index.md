@@ -50,6 +50,7 @@ The workshop will take two full days and include a presentation and discussion s
 * Alina Kiessling (JPL)
 * Anton Koekemoer (STScI)
 * Jeff Kruk (GSFC)
+* Robert Lupton (Princeton)
 * Peter Melchior (Princeton)
 * Eric Murphy (NRAO)
 * Jeffrey Newman (Univ. Pittsburgh)
