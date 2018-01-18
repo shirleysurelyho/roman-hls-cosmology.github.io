@@ -52,6 +52,7 @@ The workshop will take two full days and include a presentation and discussion s
 * Jeff Kruk (GSFC)
 * Robert Lupton (Princeton)
 * Peter Melchior (Princeton)
+* Hironao Miyatake (Nagoya, JPL)
 * Eric Murphy (NRAO)
 * Jeffrey Newman (Univ. Pittsburgh)
 * Masamune Oguri (Univ. Tokyo)
