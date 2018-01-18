@@ -21,7 +21,7 @@ This workshop will focus on synergies between the unprecedented survey speed of 
 
 Surveys of particular focus will include LSST, Euclid, Spitzer, JWST, HSC/PFS, SKA and ngVLA, CMB S4, eROSITA.
 
-*Peter Capak, Olivier Doré*
+*Peter Capak, Olivier Doré, Jason Rhodes*
 
 #### Registration
 
