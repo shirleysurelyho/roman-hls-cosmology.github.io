@@ -34,6 +34,8 @@ The workshop will take two full days and include a presentation and discussion s
 
 #### Participants (as of 10/04/17)
 
+* Eric Aubourg (APC)
+* Andrew Benson (Cargenie)
 * Chris Carilli (NRAO)
 * Caitlin Casey (UT Austin)
 * Tzu-Ching Chang (JPL/Caltech)
@@ -51,6 +53,7 @@ The workshop will take two full days and include a presentation and discussion s
 * Anton Koekemoer (STScI)
 * Jeff Kruk (GSFC)
 * Robert Lupton (Princeton)
+* Elena Massara (Berkeley)
 * Peter Melchior (Princeton)
 * Hironao Miyatake (Nagoya, JPL)
 * Eric Murphy (NRAO)
