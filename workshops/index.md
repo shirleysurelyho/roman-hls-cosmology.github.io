@@ -77,7 +77,7 @@ The workshop will last two and half days and include presentation and discussion
 #### Location and Local Info
 
 The workshop will be generously hosted by the Keck Institute for Space Science <http://kiss.caltech.edu>.
-You can find a list of local restaurants and hotel suggestions (**here**)[https://conference.ipac.caltech.edu/wfirst_lsst/page/venue].
+You can find a list of local restaurants and hotel suggestions [**here**](https://conference.ipac.caltech.edu/wfirst_lsst/page/venue).
 
 ---
 ---
