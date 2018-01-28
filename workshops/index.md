@@ -63,6 +63,7 @@ The workshop will last two and half days and include presentation and discussion
 * Jason Rhodes (JPL)
 * Brant Robertson (UCSC)
 * Emmanuel Schaan (UCB)
+* Dan Scolnic (Chicago)
 * Bryan Scott (UCR)
 * Abtin Shahidi (UCR)
 * John Silverman (IPMU)
