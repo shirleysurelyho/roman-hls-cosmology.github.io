@@ -58,10 +58,10 @@ The workshop will last two and half days and include presentation and discussion
 * Hironao Miyatake (Nagoya, JPL)
 * Eric Murphy (NRAO)
 * Jeffrey Newman (Univ. Pittsburgh)
-* Masamune Oguri (Univ. Tokyo)
 * Russell Ryan (STScI)
 * Jason Rhodes (JPL)
 * Brant Robertson (UCSC)
+* Dave Sanders (IfA, Hawaii)
 * Emmanuel Schaan (UCB)
 * Dan Scolnic (Chicago)
 * Bryan Scott (UCR)
@@ -72,7 +72,6 @@ The workshop will last two and half days and include presentation and discussion
 * David Spergel (CCA, Princeton) (TBC)
 * Daniel Stern (JPL/Caltech)
 * Itsvan Szapudi (IfA, Univ. Hawaii)
-* Masahiro Takada (IPMU)
 * Yun Wang (IPAC, Caltech)
 
 #### Location and Local Info
