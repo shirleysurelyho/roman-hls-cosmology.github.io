@@ -56,6 +56,7 @@ The workshop will last two and half days and include presentation and discussion
 * Elena Massara (Berkeley)
 * Peter Melchior (Princeton)
 * Hironao Miyatake (Nagoya, JPL)
+* Bahram Mobasher (UCI)
 * Eric Murphy (NRAO)
 * Jeffrey Newman (Univ. Pittsburgh)
 * Russell Ryan (STScI)
