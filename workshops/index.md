@@ -59,6 +59,7 @@ The workshop will last two and half days and include presentation and discussion
 * Bahram Mobasher (UCI)
 * Eric Murphy (NRAO)
 * Jeffrey Newman (Univ. Pittsburgh)
+* Ranga-Ram Charry (IPAC Caltech)
 * Russell Ryan (STScI)
 * Jason Rhodes (JPL)
 * Brant Robertson (UCSC)
