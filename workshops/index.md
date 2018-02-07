@@ -69,7 +69,7 @@ The workshop will last two and half days and include presentation and discussion
 * Bryan Scott (UCR)
 * Abtin Shahidi (UCR)
 * John Silverman (IPMU)
-* Chartab Soltani (UCR)
+* Nima Chartab Soltani (UCR)
 * Michael Schneider (LLNL)
 * David Spergel (CCA, Princeton) (TBC)
 * Daniel Stern (JPL/Caltech)
