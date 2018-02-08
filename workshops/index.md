@@ -55,6 +55,7 @@ The workshop will last two and half days and include presentation and discussion
 * Alina Kiessling (JPL)
 * Anton Koekemoer (STScI)
 * Jeff Kruk (GSFC)
+* Rebecca Larson (UT Austin)
 * Robert Lupton (Princeton)
 * Sangeeta Malhotra (GSFC)
 * Elena Massara (Berkeley)
