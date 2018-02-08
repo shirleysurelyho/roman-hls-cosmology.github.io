@@ -46,6 +46,7 @@ The workshop will last two and half days and include presentation and discussion
 * Olivier Doré (JPL/Caltech)
 * Simone Ferraro (UCB)
 * Ryan Foley (UCSC)
+* Mauro Giavalisco (U Massachusetts)
 * Sunil Golwala (Caltech)
 * Patt Hall (York Univ.)
 * George Helou (IPAC Caltech)
