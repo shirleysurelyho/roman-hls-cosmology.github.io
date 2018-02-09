@@ -71,6 +71,7 @@ The workshop will last two and half days and include presentation and discussion
 * Brant Robertson (UCSC)
 * Dave Sanders (IfA, Hawaii)
 * Emmanuel Schaan (UCB)
+* Marco Scodeggio (INAF, Milano)
 * Dan Scolnic (Chicago)
 * Bryan Scott (UCR)
 * Abtin Shahidi (UCR)
