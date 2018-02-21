@@ -56,6 +56,7 @@ The workshop will last two and half days and include presentation and discussion
 * Marziye Jafari (UCR)
 * Alina Kiessling (JPL)
 * Anton Koekemoer (STScI)
+* Elisabeth Krause (JPL)
 * Rebecca Larson (UT Austin)
 * Robert Lupton (Princeton)
 * Sangeeta Malhotra (GSFC)
