@@ -30,7 +30,7 @@ The workshop will be limited to 60 participants and is by invitation only. Pleas
 
 #### Agenda
 
-The workshop will last two and half days and include presentation and discussion sessions. A draft agenda can be found [**here**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLwVOik9xbGhXLGiUscvlRO9PuWLsz2Vn2Vivz1qFpb-V2o09ES-ouOIJy8Q_g7_HAkiV-jM1E8Pbg/pubhtml) (updated on 01/26/18). Talks will be 20 min. + 10 min. discussion.
+The workshop will last two and half days and include presentation and discussion sessions. A draft agenda can be found [**here**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLwVOik9xbGhXLGiUscvlRO9PuWLsz2Vn2Vivz1qFpb-V2o09ES-ouOIJy8Q_g7_HAkiV-jM1E8Pbg/pubhtml) (updated on 02/20/18). Talks will be 20 min. + 10 min. discussion.
 
 #### Participants (as of 01/26/18)
 
