@@ -65,6 +65,7 @@ The workshop will last two and half days and include presentation and discussion
 * Alex Merson (JPL/Caltech)
 * Hironao Miyatake (Nagoya, JPL)
 * Bahram Mobasher (UCI)
+* Mark Neyrinck (Durham)
 * Jeffrey Newman (Univ. Pittsburgh)
 * Ranga-Ram Charry (IPAC Caltech)
 * Russell Ryan (STScI)
