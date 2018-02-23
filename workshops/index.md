@@ -83,6 +83,7 @@ The workshop will last two and half days and include presentation and discussion
 * Daniel Stern (JPL/Caltech)
 * Itsvan Szapudi (IfA, Univ. Hawaii)
 * Yun Wang (IPAC, Caltech)
+* Min Yun (Massachussets) 
 
 #### Location and Local Info
 
