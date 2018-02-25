@@ -37,7 +37,6 @@ The workshop will last two and half days and include presentation and discussion
 * Eric Aubourg (APC)
 * Andrew Benson (Cargenie)
 * Chris Carilli (NRAO)
-* Caitlin Casey (UT Austin)
 * Ken Chambers (IfA Hawaii)
 * Tzu-Ching Chang (JPL/Caltech)
 * Nima Chartab Soltani (UCR)
