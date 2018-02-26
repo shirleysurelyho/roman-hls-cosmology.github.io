@@ -78,7 +78,6 @@ The workshop will last two and half days and include presentation and discussion
 * Abtin Shahidi (UCR)
 * John Silverman (IPMU)
 * Michael Schneider (LLNL)
-* David Spergel (CCA, Princeton) (TBC)
 * Daniel Stern (JPL/Caltech)
 * Itsvan Szapudi (IfA, Univ. Hawaii)
 * Yun Wang (IPAC, Caltech)
