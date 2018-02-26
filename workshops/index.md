@@ -34,7 +34,6 @@ The workshop will last two and half days and include presentation and discussion
 
 #### Participants (as of 01/26/18)
 
-* Eric Aubourg (APC)
 * Andrew Benson (Cargenie)
 * Chris Carilli (NRAO)
 * Ken Chambers (IfA Hawaii)
@@ -46,7 +45,6 @@ The workshop will last two and half days and include presentation and discussion
 * Tim Eifler (JPL/Caltech)
 * Simone Ferraro (UCB)
 * Steve Furlanetto (UCLA)
-* Mauro Giavalisco (U Massachusetts)
 * Sunil Golwala (Caltech)
 * Patt Hall (York Univ.)
 * George Helou (IPAC Caltech)
