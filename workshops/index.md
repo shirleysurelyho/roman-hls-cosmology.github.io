@@ -28,7 +28,7 @@ Surveys of particular focus will include LSST, Euclid, Spitzer, JWST, HSC/PFS, S
 The workshop will be limited to 60 participants and is by invitation only. Please contact the organizers if you are interested in attending.
 <!--- Please use the following link to register to this meeting: [link](https://docs.google.com/forms/d/e/1FAIpQLScSsElS-ffQgS_ncC_pYjllPW8Q_BlkwT-bXqEChPevrMmk3A/viewform?usp=sf_link) --->
 
-#### Agenda
+#### Agenda and Talks
 
 The workshop will last two and half days and include presentation and discussion sessions. **AGENDA** with links to **TALKS** can be found [**here**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLwVOik9xbGhXLGiUscvlRO9PuWLsz2Vn2Vivz1qFpb-V2o09ES-ouOIJy8Q_g7_HAkiV-jM1E8Pbg/pubhtml) (updated on 02/25/18). Talks will be 20 min. + 10 min. discussion.
 
