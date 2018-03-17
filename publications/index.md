@@ -2,14 +2,9 @@
 layout: default
 ---
 
-***
-
 # Publications
 
-***
-
 Below are listed the publication supported or partially supported by our Science Investigation Team. 
----
 ---
 #### 1. *Information content of the angular multipoles of redshift-space galaxy bispectrum*, Gagrani and Samushia, [arXiv](https://arxiv.org/abs/1610.03488)
 
@@ -27,8 +22,7 @@ Below are listed the publication supported or partially supported by our Science
 
 #### 8. *The complete calibration of the color-redshift relation (C3R2) survey: survey overview and data release 1*, Masters et al., [arXiv](https://arxiv.org/abs/1704.06665)
 
-#### 9. *Looking through the same lens: shear calibration for LSST, Euclid & WFIRST with stage
-4 CMB lensing*, [arXiv](https://arxiv.org/abs/1607.01761)
+#### 9. *Looking through the same lens: shear calibration for LSST, Euclid & WFIRST with stage 4 CMB lensing*, [arXiv](https://arxiv.org/abs/1607.01761)
 
 #### 10. *Multitracing anisotropic non-gaussianity with galaxy shapes*, Chisari et al, [arXiv](https://arxiv.org/abs/1607.05232)
 
