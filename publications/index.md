@@ -4,8 +4,12 @@ layout: default
 
 # Publications
 
+---
+---
 Below are listed the publication supported or partially supported by our Science Investigation Team. 
 ---
+---
+
 ##### 1. *Information content of the angular multipoles of redshift-space galaxy bispectrum*, Gagrani and Samushia, [arXiv](https://arxiv.org/abs/1610.03488)
 
 #### 2. *Optimal weights for measuring redshift space distortions in multitracer galaxy catalogues*, Pearson, Samushia,and Gagrani, [arXiv](https://arxiv.org/abs/1606.03435)
