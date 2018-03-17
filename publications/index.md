@@ -11,7 +11,6 @@ layout: default
 Publications supported or partially supported by our Science Investigation Team are listed below.
 
 ---
----
 
 #### 1. *Information content of the angular multipoles of redshift-space galaxy bispectrum*, Gagrani and Samushia, [arXiv](https://arxiv.org/abs/1610.03488)
 
@@ -39,5 +38,4 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 13. *Laboratory measurement of the brighter-fatter effect in an H2RG infrared detector*, Plazas et al., [arXiv](https://arxiv.org/abs/1712.06642)
 
----
 ---
