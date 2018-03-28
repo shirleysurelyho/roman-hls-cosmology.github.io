@@ -34,8 +34,10 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 11. *Predicting Hα emission line galaxy counts for future galaxy redshift surveys*, Merson et al., [arXiv](https://arxiv.org/abs/1710.00833)
 
-#### 12. *Nonlinearity and pixel shifting effects in HXRG infrared detectors*, Plazas et al., [arXiv](https://arxiv.org/abs/1703.08205)
+#### 12. *Laboratory measurement of the brighter-fatter effect in an H2RG infrared detector*, Plazas et al., [arXiv](https://arxiv.org/abs/1712.06642)
 
-#### 13. *Laboratory measurement of the brighter-fatter effect in an H2RG infrared detector*, Plazas et al., [arXiv](https://arxiv.org/abs/1712.06642)
+#### 13. *Complete super-sample lensing covariance in the response approach*, Barreira, Krause, Schmidt [arXiv](https://arxiv.org/abs/1711.07467)
+
+#### 14. *Precision Projector Laboratory: Detector Characterization with an Astronomical Emulation Testbed*, Shapiro et al., [arXiv](https://arxiv.org/abs/1801.06599)
 
 ---
