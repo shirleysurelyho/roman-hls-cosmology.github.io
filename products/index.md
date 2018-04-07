@@ -20,9 +20,6 @@ WFIRST SIT "Cosmology with the High Latitude Survey" 2017 report [Report](/wfirs
 
 ---
 ---
-
----
----
 ## FIRST WFIRST [OIII] Emission Line Galaxy Mock Catalog
 
 ### [WFIRST [OIII] emitters mock catalog](https://sites.google.com/site/catalogswfirst/)
