@@ -12,6 +12,17 @@ Our Science Investigation Team will release codes, products and artificial data 
 
 ---
 ---
+## WFIRST SIT Annual Report (April 2017)
+
+We share here the annual report written by our SIT for the WFIRST Project. The original version of this report was submitted to the WFIRST Project Office on July 14, 2017. Some minor updates have been made in this version. We note that this document does not constitute an official WFIRST Project document and is only for information purpose. In particular, the requirements below reflect a snapshot of the requirements formulation. The official Science Requirements Document (SRD) will always supersede the requirements written here.
+
+WFIRST SIT "Cosmology with the High Latitude Survey" 2017 report [Report](wfirst_sit_hls_cosmology_annual_report_april17.pdf)
+
+---
+---
+
+---
+---
 ## FIRST WFIRST [OIII] Emission Line Galaxy Mock Catalog
 
 ### [WFIRST [OIII] emitters mock catalog](https://sites.google.com/site/catalogswfirst/)
