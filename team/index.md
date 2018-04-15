@@ -10,6 +10,7 @@ layout: default
 
 We have assembled a team with the expertise and commitment needed to address the stringent challenges of the WFIRST dark energy program through the Project’s formulation phase. The imaging and spectroscopic elements of the High Latitude Survey (HLS) will be realized as an integrated observing program, and they jointly impose requirements on instrument and telescope performance, operations, and data transfer. The methods for simulating and interpreting weak lensing and galaxy clustering observations largely overlap, and many members of our team have expertise in both areas. 
 
+- Anahita Alavi (Caltech/IPAC)
 - Ivano Baronchelli (Caltech/IPAC)
 - Rachel Bean (Cornell)
 - Andrew Benson (Carnegie)
