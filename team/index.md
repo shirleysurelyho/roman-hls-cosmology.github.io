@@ -41,7 +41,6 @@ We have assembled a team with the expertise and commitment needed to address the
 - Hironao Miyatake (JPL/Caltech)
 - Nikhil Padmanabhan (Yale)
 - Alice Pisani (Princeton)
-- Andres Plazas Malagon (JPL/Caltech)
 - Eduardo Rozo (U. Arizona)
 - Lado Samushia (U. Kansas)
 - Mike Seiffert (JPL/Caltech)
