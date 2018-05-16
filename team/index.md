@@ -33,6 +33,7 @@ We have assembled a team with the expertise and commitment needed to address the
 - Chris Hirata (OSU, Weak lensing lead)
 - Alexie Leauthaud (UCSC)
 - Robert Lupton (Princeton)
+- Chien-Hao Lin (CMU)
 - Niall MacCrann (OSU)
 - Rachel Mandelbaum (CMU)
 - Elena Massara (LBL)
