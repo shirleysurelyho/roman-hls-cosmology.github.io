@@ -40,4 +40,6 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 14. *Precision Projector Laboratory: Detector Characterization with an Astronomical Emulation Testbed*, Shapiro et al., [arXiv](https://arxiv.org/abs/1801.06599)
 
+#### 15. *Image simulations for gravitational lensing with SkyLens*, Plazas et al., [arXiv](https://arxiv.org/abs/1805.05481)
+
 ---
