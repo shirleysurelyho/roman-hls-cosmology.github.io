@@ -42,4 +42,6 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 15. *Image simulations for gravitational lensing with SkyLens*, Plazas et al., [arXiv](https://arxiv.org/abs/1805.05481)
 
+#### 16. *Photometric redshift calibration requirements for WFIRST Weak Lensing Cosmology: Predictions from CANDELS*, Hemmani et al., [arXiv](https://arxiv.org/abs/1808.10458)
+
 ---
