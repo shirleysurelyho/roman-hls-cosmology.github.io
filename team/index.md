@@ -42,6 +42,7 @@ We have assembled a team with the expertise and commitment needed to address the
 - Alex Merson (Caltech/IPAC)
 - Vivian Miranda (U. Arizona)
 - Nikhil Padmanabhan (Yale)
+- Anna Porredon (OSU)
 - Alice Pisani (Princeton)
 - Eduardo Rozo (U. Arizona)
 - Lado Samushia (U. Kansas)
