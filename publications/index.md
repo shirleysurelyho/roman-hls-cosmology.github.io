@@ -72,14 +72,14 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 30. *Constraining neutrino mass with the tomographic weak lensing bispectrum*, Coulton,...,Spergel, [arXiv](https://ui.adsabs.harvard.edu/abs/2019JCAP...05..043C/abstract)
 
-#### 31. *Cosmic Voids as Laboratories for Neutrino Physics*, Kreisch,Spergel,et al. [arXiv](https://ui.adsabs.harvard.edu/abs/2019AAS...23420306K/abstract)
+#### 31. *Cosmic Voids as Laboratories for Neutrino Physics*, Kreisch,Spergel,et al., [arXiv](https://ui.adsabs.harvard.edu/abs/2019AAS...23420306K/abstract)
 
-#### 32. *MassiveNuS: cosmological massive neutrino simulations*, Liu,...,Spergel [arXiv](https://ui.adsabs.harvard.edu/abs/2018JCAP...03..049L/abstract)
+#### 32. *MassiveNuS: cosmological massive neutrino simulations*, Liu,...,Spergel, [arXiv](https://ui.adsabs.harvard.edu/abs/2018JCAP...03..049L/abstract)
 
 #### 33. *Cosmic voids: a novel probe to shed light on our Universe*, Pisani,Spergel,Hirata,Ho,Jain,et al. [arXiv](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c..40P/abstract)
 
-#### 34. *Brighter-fatter effect in near-infrared detectors -- I. Theory of flat auto-correlations*, Hirata, Choi [arXiv](https://arxiv.org/abs/1906.08146)
+#### 34. *Brighter-fatter effect in near-infrared detectors -- I. Theory of flat auto-correlations*, Hirata, Choi, [arXiv](https://arxiv.org/abs/1906.08146)
 
-#### 35. *Brighter-fatter effect in near-infrared detectors -- II. Auto-correlation analysis of H4RG-10 flats*, Choi, Hirata [arXiv](https://arxiv.org/abs/1906.08147)
+#### 35. *Brighter-fatter effect in near-infrared detectors -- II. Auto-correlation analysis of H4RG-10 flats*, Choi, Hirata, [arXiv](https://arxiv.org/abs/1906.08147)
 
 ---
