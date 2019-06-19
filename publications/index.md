@@ -78,8 +78,7 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 33. *Cosmic voids: a novel probe to shed light on our Universe*, Pisani,Spergel,Hirata,Ho,Jain,et al. [arXiv](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c..40P/abstract)
 
-#### 34. *Brighter-fatter effect in near-infrared detectors -- I. Theory of flat auto-correlations*, Hirata, Choi, [arXiv](https://arxiv.org/abs/1906.08146)
+#### 34. *Brighter-fatter effect in near-infrared detectors -- I. Theory of flat auto-correlations*, Hirata, Choi, [arXiv](https://arxiv.org/abs/1906.01846)
 
-#### 35. *Brighter-fatter effect in near-infrared detectors -- II. Auto-correlation analysis of H4RG-10 flats*, Choi, Hirata, [arXiv](https://arxiv.org/abs/1906.08147)
-
+#### 35. *Brighter-fatter effect in near-infrared detectors -- II. Auto-correlation analysis of H4RG-10 flats*, Choi, Hirata, [arXiv](https://arxiv.org/abs/1906.01847)
 ---
