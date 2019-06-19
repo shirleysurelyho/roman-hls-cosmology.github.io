@@ -64,9 +64,9 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 26. *The DEIMOS 10K Spectroscopic Survey Catalog of the COSMOS Field*, Hasinger,Capak,...,Hemmati,..Masters, et al., [arXiv](https://arxiv.org/abs/1803.09251)
 
-#### 27. *Partnering space and ground observatories - Synergies in cosmology from LSST and WFIRST*, Eifler,Simet,Hirata,Heinrich,Hemmati,Mandelbaum,Krause,Dore',Spergel,et al., [arXiv](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.418E/abstract)
+#### 27. *Partnering space and ground observatories - Synergies in cosmology from LSST and WFIRST*, Eifler,Simet,Hirata,Heinrich,Hemmati,Mandelbaum,Krause,Doré,Spergel,et al., [arXiv](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.418E/abstract)
 
-#### 28. *Partnering space and ground observatories - Synergies in cosmology from LSST and WFIRST*, Eifler,Simet,Hirata,Heinrich,Hemmati,Mandelbaum,Krause,Dore',Spergel,et al., [arXiv](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.418E/abstract)
+#### 28. *Partnering space and ground observatories - Synergies in cosmology from LSST and WFIRST*, Eifler,Simet,Hirata,Heinrich,Hemmati,Mandelbaum,Krause,Doré,Spergel,et al., [arXiv](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.418E/abstract)
 
 #### 29. *The science advantage of a redder filter for WFIRST*, Staufer, Helou,...,Capak, et al., [arXiv](https://arxiv.org/abs/1806.00554)
 
