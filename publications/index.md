@@ -70,6 +70,19 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 29. *The science advantage of a redder filter for WFIRST*, Staufer, Helou,...,Capak, et al., [arXiv](https://arxiv.org/abs/1806.00554)
 
+#### 30. *Constraining neutrino mass with the tomographic weak lensing bispectrum*, Coulton,...,Spergel, [arXiv](https://ui.adsabs.harvard.edu/abs/2019JCAP...05..043C/abstract)
+
+#### 31. *Cosmic Voids as Laboratories for Neutrino Physics*, Kreisch,Spergel,et al. [arXiv](https://ui.adsabs.harvard.edu/abs/2019AAS...23420306K/abstract)
+
+#### 32. *MassiveNuS: cosmological massive neutrino simulations*, Liu,...,Spergel [arXiv](https://ui.adsabs.harvard.edu/abs/2018JCAP...03..049L/abstract)
+
+#### 33. *Cosmic voids: a novel probe to shed light on our Universe*, Pisani,Spergel,Hirata,Ho,Jain,et al. [arXiv](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c..40P/abstract)
+
+
+
+
+
+
 
 
 ---
