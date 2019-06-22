@@ -81,4 +81,16 @@ Publications supported or partially supported by our Science Investigation Team 
 #### 34. *Brighter-fatter effect in near-infrared detectors -- I. Theory of flat auto-correlations*, Hirata, Choi, [arXiv](https://arxiv.org/abs/1906.01846)
 
 #### 35. *Brighter-fatter effect in near-infrared detectors -- II. Auto-correlation analysis of H4RG-10 flats*, Choi, Hirata, [arXiv](https://arxiv.org/abs/1906.01847)
+
+#### 36. *The Void Size Function in Dynamical Dark Energy Cosmologies*, Verza, Pisani, et al. [arXiv](https://arxiv.org/abs/1906.00409)
+
+#### 37. *The bias of cosmic voids in the presence of massive neutrinos*, Schuster, Hamaus, Pisani, et al. [arXiv](https://arxiv.org/abs/1905.00436)
+
+#### 38. *Massive Neutrinos Leave Fingerprints on Cosmic Voids*, Kreisch, Pisani, Spergel, et al. [arXiv](https://arxiv.org/abs/1808.07464)
+
+#### 39. *Deep+Wide Lensing Surveys will Provide Exquisite Measurements of the Dark Matter Halos of Dwarf Galaxies*, Leauthaud,.., Capak, et al. [arXiv](https://arxiv.org/abs/1905.01433)
+
+
+
 ---
+
