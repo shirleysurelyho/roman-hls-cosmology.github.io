@@ -8,7 +8,7 @@ layout: default
 
 ***
 ### April 2019: WFIRST Cosmology Decadal Science White Paper submitted 
-The *Cosmology with the HLS* SIT and the two supernovae SITs submitted a science paper articulating the cosmological impact of the WFIRST mission. WFIRST is the *Essential Cosmology Space Observatory for the Coming Decade* [arXiv](https://arxiv.org/abs/1904.01174).
+The *Cosmology with the HLS* SIT and the two supernovae SITs submitted to the Astro2020 Decadal Survey a science paper articulating the cosmological impact of the WFIRST mission. WFIRST is the *Essential Cosmology Space Observatory for the Coming Decade* [arXiv](https://arxiv.org/abs/1904.01174).
 
 ### January 2017: 229th American Astronomical Society Meeting, Grapevine, TX:
 Co-Investigator _Rachel Mandelbaum_ (CMU) will represent our Science Investigation Team at the special session "WFIRST Status and Science Opportunities" organized by _Neil Gehrels_ (NASA GSFC), on January 5, 7:30 - 9:00 PM; Grapevine B (Gaylord Texan Resort & Convention Center). Slides available [here](/misc/wfirst_aas_mandelbaum.pdf).
