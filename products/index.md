@@ -12,6 +12,12 @@ Our Science Investigation Team will release codes, products and artificial data 
 
 ---
 ---
+## Submission of a Science White Paper to the Astro2020 Decadal Survey
+
+Two decades after its discovery, cosmic acceleration remains the most profound mystery in cosmology and arguably in all of physics. Either the Universe is dominated by a form of dark energy with exotic physical properties not predicted by standard model physics, or General Relativity is not an adequate description of gravity over cosmic distances. WFIRST emerged as a top priority of Astro2010 in part because of its ability to address the mystery of cosmic acceleration through both high precision measurements of the cosmic expansion history and the growth of cosmic structures with multiple and redundant probes. We illustrate in this white paper how mission design changes since Astro2010 have made WFIRST an even more powerful dark energy facility and have improved the ability of WFIRST to respond to changes in the experimental landscape. WFIRST is the space-based probe of DE the community needs in the mid-2020s.
+
+Link to paper on the arXiv: [arXiv](https://arxiv.org/abs/1904.01174)
+
 ## WFIRST SIT Annual Report (April 2017)
 
 We share here the annual report written by our SIT for the WFIRST Project. The original version of this report was submitted to the WFIRST Project Office on July 14, 2017. Some minor updates have been made in this version. We note that this document does not constitute an official WFIRST Project document and is only for information purpose. In particular, the requirements below reflect a snapshot of the requirements formulation. The official Science Requirements Document (SRD) will always supersede the requirements written here.
