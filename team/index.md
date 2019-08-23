@@ -39,7 +39,6 @@ We have assembled a team with the expertise and commitment needed to address the
 - Rachel Mandelbaum (CMU)
 - Elena Massara (CCA, Flatiron Institute)
 - Dan Masters (JPL)
-- Alex Merson (Caltech/IPAC)
 - Vivian Miranda (U. Arizona)
 - Nikhil Padmanabhan (Yale)
 - Anna Porredon (OSU)
@@ -58,4 +57,3 @@ We have assembled a team with the expertise and commitment needed to address the
 - David Weinberg (OSU, Galaxy clusters lead)
 - Hao-Yi Wu (OSU)
 - Zhongxu Zhai (Caltech/IPAC)
-- Ying Zu (OSU)
