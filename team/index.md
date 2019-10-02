@@ -26,7 +26,6 @@ We have assembled a team with the expertise and commitment needed to address the
 - Shoubaneh Hemmati (Caltech/IPAC)
 - Eric Huff (JPL)
 - Shirley Ho (CCA, Flatiron Institute)
-- Albert Izard (JPL)
 - Bhuvnesh Jain (Penn)
 - Mike Jarvis (Penn)
 - Alina Kiessling (JPL/Caltech)
