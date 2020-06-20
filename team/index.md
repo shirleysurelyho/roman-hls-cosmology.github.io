@@ -8,12 +8,11 @@ layout: default
 
 ***
 
-We have assembled a team with the expertise and commitment needed to address the stringent challenges of the WFIRST dark energy program through the Project’s formulation phase. The imaging and spectroscopic elements of the High Latitude Survey (HLS) will be realized as an integrated observing program, and they jointly impose requirements on instrument and telescope performance, operations, and data transfer. The methods for simulating and interpreting weak lensing and galaxy clustering observations largely overlap, and many members of our team have expertise in both areas. 
+We have assembled a team with the expertise and commitment needed to address the stringent challenges of the Roman Space Telescope dark energy program through the Project’s formulation phase. The imaging and spectroscopic elements of the High Latitude Survey (HLS) will be realized as an integrated observing program, and they jointly impose requirements on instrument and telescope performance, operations, and data transfer. The methods for simulating and interpreting weak lensing and galaxy clustering observations largely overlap, and many members of our team have expertise in both areas. 
 
 - Anahita Alavi (Caltech/IPAC)
 - Rachel Bean (Cornell)
 - Andrew Benson (Carnegie)
-- Peter Capak (Caltech/IPAC)
 - Ami Choi (OSU)
 - James Colbert (Caltech/IPAC)
 - Matthew Digman (OSU)
@@ -40,8 +39,8 @@ We have assembled a team with the expertise and commitment needed to address the
 - Silva Makana (OSU)
 - Rachel Mandelbaum (CMU)
 - Dida Markovic (JPL)
-- Elena Massara (CCA, Flatiron Institute)
-- Dan Masters (JPL)
+- Elena Massara (U Waterloo)
+- Dan Masters (Caltech/IPAC)
 - Vivian Miranda (U. Arizona)
 - Nikhil Padmanabhan (Yale)
 - Kris Pardo (JPL)
