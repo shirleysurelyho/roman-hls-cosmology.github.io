@@ -53,7 +53,7 @@ We have assembled a team with the expertise and commitment needed to address the
 - Charles Shapiro (JPL/Caltech)
 - David Spergel (Princeton, CCA, Flatiron Institute)
 - Tomomi Sunayama (Nagoya U.)
-- Masahiro Takada (IPMU)
+- Masahiro Takada (U. Tokyo, IPMU)
 - Peter Taylor (JPL)
 - Harry Teplitz (Caltech/IPAC)
 - Michael Troxel (Duke)
