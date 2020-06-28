@@ -1,4 +1,4 @@
-# wfirst-hls-cosmology.github.io
+# roman-hls-cosmology.github.io
 This is the repository for the public web page
 
 To create this file we are using the GitHub markdowns https://guides.github.com/features/mastering-markdown/ format within a Jekyll template. The site content is thus in .md files.
