@@ -85,4 +85,16 @@ Publications supported or partially supported by our Science Investigation Team 
 #### 36. *Covariance matrices for galaxy cluster weak lensing: from virial regime to uncorrelated large-scale structure*, Hu, Weinberg, et al. [arXiv](https://arxiv.org/abs/1907.06611)
 
 #### 37. *A Synthetic Roman Space Telescope High-Latitude Imaging Survey: Simulation Suite and the Impact of Wavefront Errors on Weak Gravitational Lensing*, Troxel, Long, Hirata, Choi et al, 2020 [arXiv](https://arxiv.org/abs/1912.09481)
+
+#### 38. *Robust and model-independent cosmological constraints from distance measurements*, Zhai, Wang, [arXiv](https://arxiv.org/abs/1811.07425)
+
+#### 39. *Reconstructing the weak lensing magnification distribution of Type Ia supernovae*, Zhai, Wang, [arXiv](https://arxiv.org/abs/1901.08175)
+
+#### 40. *Prediction of Hα and [OIII] Emission Line Galaxy Number Counts for Future Galaxy Redshift Surveys*, Zhai, et al., [arXiv](https://arxiv.org/abs/1907.09680)
+
+#### 41. *CMB distance priors revisited: effects of dark energy dynamics, spatial curvature, primordial power spectrum, and neutrino parameters*, Zhai, et al. [arXiv](https://arxiv.org/abs/1912.04921)
+
+#### 42. *Forecasting Cosmological Constraints from the Weak Lensing Magnification of Type Ia Supernovae Measured by the Nancy Grace Roman Space Telescope*, Zhai, Wang, Scolnic, [arXiv](https://arxiv.org/abs/2008.06804)
+
+#### 43. *Clustering in the Simulated Hα Galaxy Redshift Survey from Nancy Grace Roman Space Telescope*, Zhai, et al. [arXiv](https://arxiv.org/abs/2008.09746)
 ---
