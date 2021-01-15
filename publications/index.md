@@ -99,4 +99,6 @@ Publications supported or partially supported by our Science Investigation Team 
 #### 43. *Clustering in the Simulated Hα Galaxy Redshift Survey from Nancy Grace Roman Space Telescope*, Zhai, et al. [arXiv](https://arxiv.org/abs/2008.09746)
 
 #### 44. *Cosmology with galaxy cluster weak lensing: statistical limits and experimental design*, Wu, Weinberg, et al. [arXiv](https://arxiv.org/abs/2012.01956)
+
+#### 45. *Gravitational Wave Detection with Photometric Surveys*, Wang, Pardo, Chang, and Dore [arXiv](https://arxiv.org/abs/2010.02218)
 ---
