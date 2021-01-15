@@ -82,7 +82,7 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 35. *Brighter-fatter effect in near-infrared detectors -- II. Auto-correlation analysis of H4RG-10 flats*, Choi, Hirata, [arXiv](https://arxiv.org/abs/1906.01847)
 
-#### 36. *Covariance matrices for galaxy cluster weak lensing: from virial regime to uncorrelated large-scale structure*, Hu, Weinberg, et al. [arXiv](https://arxiv.org/abs/1907.06611)
+#### 36. *Covariance matrices for galaxy cluster weak lensing: from virial regime to uncorrelated large-scale structure*, Wu, Weinberg, et al. [arXiv](https://arxiv.org/abs/1907.06611)
 
 #### 37. *A Synthetic Roman Space Telescope High-Latitude Imaging Survey: Simulation Suite and the Impact of Wavefront Errors on Weak Gravitational Lensing*, Troxel, Long, Hirata, Choi et al, 2020 [arXiv](https://arxiv.org/abs/1912.09481)
 
@@ -97,4 +97,6 @@ Publications supported or partially supported by our Science Investigation Team 
 #### 42. *Forecasting Cosmological Constraints from the Weak Lensing Magnification of Type Ia Supernovae Measured by the Nancy Grace Roman Space Telescope*, Zhai, Wang, Scolnic, [arXiv](https://arxiv.org/abs/2008.06804)
 
 #### 43. *Clustering in the Simulated Hα Galaxy Redshift Survey from Nancy Grace Roman Space Telescope*, Zhai, et al. [arXiv](https://arxiv.org/abs/2008.09746)
+
+#### 44. *Cosmology with galaxy cluster weak lensing: statistical limits and experimental design*, Wu, Weinberg, et al. [arXiv](https://arxiv.org/abs/2012.01956)
 ---
