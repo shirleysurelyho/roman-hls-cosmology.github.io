@@ -100,5 +100,5 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 44. *Cosmology with galaxy cluster weak lensing: statistical limits and experimental design*, Wu, Weinberg, et al. [arXiv](https://arxiv.org/abs/2012.01956)
 
-#### 45. *Gravitational Wave Detection with Photometric Surveys*, Wang, Pardo, Chang, and Dore [arXiv](https://arxiv.org/abs/2010.02218)
+#### 45. *Gravitational Wave Detection with Photometric Surveys*, Wang, Pardo, Chang, and Doré [arXiv](https://arxiv.org/abs/2010.02218)
 ---
