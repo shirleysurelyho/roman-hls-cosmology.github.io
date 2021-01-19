@@ -103,4 +103,9 @@ Publications supported or partially supported by our Science Investigation Team 
 #### 45. *Gravitational Wave Detection with Photometric Surveys*, Wang, Pardo, Chang, and Doré [arXiv](https://arxiv.org/abs/2010.02218)
 
 #### 46. *Brighter-fatter effect in near-infrared detectors -- III. Fourier-domain treatment of flat field correlations and application to WFIRST*, Freudenburg, Givans, Choi, Hirata, et al., [arXiv](https://ui.adsabs.harvard.edu/abs/2020PASP..132g4504F/abstract)
+
+#### 47. *The Impact of Interpixel Capacitance in CMOS Detectors on PSF shapes and Implications for WFIRST*, Kannawadi, Shapiro, Mandelbaum, Hirata, Kruk, and Rhodes [arXiv](https://arxiv.org/abs/1512.01570)
+
+#### 48. *The Impact of Light Polarization Effects on Weak Lensing Systematics*, Lin, Tan, Mandelbaum, and Hirata [arXiv](https://arxiv.org/abs/1910.05063)
+
 ---
