@@ -78,9 +78,9 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 33. *Cosmic voids: a novel probe to shed light on our Universe*, Pisani,Spergel,Hirata,Ho,Jain,et al. [arXiv](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c..40P/abstract)
 
-#### 34. *Brighter-fatter effect in near-infrared detectors -- I. Theory of flat auto-correlations*, Hirata, Choi, [arXiv](https://arxiv.org/abs/1906.01846)
+#### 34. *Brighter-fatter effect in near-infrared detectors -- I. Theory of flat auto-correlations*, Hirata, Choi, [arXiv](https://ui.adsabs.harvard.edu/abs/2020PASP..132a4501H/abstract)
 
-#### 35. *Brighter-fatter effect in near-infrared detectors -- II. Auto-correlation analysis of H4RG-10 flats*, Choi, Hirata, [arXiv](https://arxiv.org/abs/1906.01847)
+#### 35. *Brighter-fatter effect in near-infrared detectors -- II. Auto-correlation analysis of H4RG-10 flats*, Choi, Hirata, [arXiv](https://ui.adsabs.harvard.edu/abs/2020PASP..132a4502C/abstract)
 
 #### 36. *Covariance matrices for galaxy cluster weak lensing: from virial regime to uncorrelated large-scale structure*, Wu, Weinberg, et al. [arXiv](https://arxiv.org/abs/1907.06611)
 
@@ -101,4 +101,6 @@ Publications supported or partially supported by our Science Investigation Team 
 #### 44. *Cosmology with galaxy cluster weak lensing: statistical limits and experimental design*, Wu, Weinberg, et al. [arXiv](https://arxiv.org/abs/2012.01956)
 
 #### 45. *Gravitational Wave Detection with Photometric Surveys*, Wang, Pardo, Chang, and Doré [arXiv](https://arxiv.org/abs/2010.02218)
+
+#### 46. *Brighter-fatter effect in near-infrared detectors -- III. Fourier-domain treatment of flat field correlations and application to WFIRST*, Freudenburg, Givans, Choi, Hirata, et al., [arXiv](https://ui.adsabs.harvard.edu/abs/2020PASP..132g4504F/abstract)
 ---
