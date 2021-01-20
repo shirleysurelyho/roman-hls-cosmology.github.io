@@ -121,5 +121,13 @@ Publications supported or partially supported by our Science Investigation Team 
 #### 54. *A 5% measurement of the gravitational constant in the Large Magellanic Cloud*, Desmond, Sakstein, Jain [arXiv](https://arxiv.org/abs/2012.05028)
 
 #### 55. *Testing f(R) Gravity With Scale Dependent Cosmic Void Velocity Profiles*, Wilson and Bean, [arXiv](https://arxiv.org/abs/2012.05925)
+
+#### 56. *Redshift space power spectrum beyond Einstein-de Sitter kernels*, Aviles, Valogiannis, Rodriguez-Meza, Cervantes-Cota, Li and Bean, [arXiv](https://arxiv.org/abs/2012.05077)
+
+#### 57. *An accurate perturbative approach to redshift space clustering of biased tracers in modified gravity*, Valogiannis, Bean and Aviles, [arXiv](https://arxiv.org/abs/1909.05261)
+
+#### 58. *Convolution Lagrangian perturbation theory for biased tracers beyond general relativity*, Valogiannis and Bean, [arXiv](https://arxiv.org/abs/1901.03763)
+
+
 ---
 
