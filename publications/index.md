@@ -114,5 +114,9 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 51. *Massive Neutrinos Leave Fingerprints on Cosmic Voids*, Kreisch, Pisani, Spergel, et al. [arXiv](https://arxiv.org/abs/1808.07464)
 
+#### 52. *Cosmology with the Wide-Field Infrared Survey Telescope -- Synergies with the Rubin Observatory Legacy Survey of Space and Time*, Eifler, et al. [arXiv](https://arxiv.org/abs/2004.04702)
+
+#### 53. *Cosmology with the Wide-Field Infrared Survey Telescope -- Multi-Probe Strategies*, Eifler, et al. [arXiv](https://arxiv.org/abs/2004.05271)
+
 ---
 
