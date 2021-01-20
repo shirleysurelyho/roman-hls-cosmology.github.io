@@ -131,5 +131,16 @@ Publications supported or partially supported by our Science Investigation Team 
 #### 60. *Cross-bispectra Constraints on Modified Gravity Theories from Nancy Grace Roman Space Telescope and Rubin Observatory Legacy Survey of Space and Time*, Heinrich & Doré, [arXiv](https://arxiv.org/abs/2006.03138)
 
 #### 61. *The Aemulus Project IV: Emulating Halo Bias*, McClintock, et al. [arXiv](https://arxiv.org/abs/1907.13167)
+
+#### 62. *How do galaxy properties affect void statistics?*, Panchal, Pisani, Spergel [arXiv](https://ui.adsabs.harvard.edu/abs/2020arXiv200914751P/abstract)
+
+#### 63. *Precision cosmology with voids in the final BOSS data*, Hamaus, Pisani et al. [arXiv](https://ui.adsabs.harvard.edu/abs/2020JCAP...12..023H/abstract)
+
+#### 64. *The void halo mass function: a promising probe of neutrino mass*, Zhang, Li, Liu, Spergel, Kreisch, Pisani and Wandelt [arXiv](https://ui.adsabs.harvard.edu/abs/2020PhRvD.102h3537Z/abstract)
+
+#### 65. *Constraints on the growth of structure around cosmic voids in eBOSS DR14*, Hawken, Aubert, Pisani et al. [arXiv](https://ui.adsabs.harvard.edu/abs/arXiv:1909.04394)
+
+#### 66. *Properties of simulated galaxies and supermassive black holes in cosmic voids*, Habouzit, Pisani et al. [arXiv](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..899H/abstract)
+
 ---
 
