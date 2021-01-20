@@ -108,4 +108,11 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 48. *The Impact of Light Polarization Effects on Weak Lensing Systematics*, Lin, Tan, Mandelbaum, and Hirata [arXiv](https://arxiv.org/abs/1910.05063)
 
+#### 49. *The Void Size Function in Dynamical Dark Energy Cosmologies*, Verza, Pisani, et al. [arXiv](https://arxiv.org/abs/1906.00409)
+
+#### 50. *The bias of cosmic voids in the presence of massive neutrinos*, Schuster, Hamaus, Pisani, et al. [arXiv](https://arxiv.org/abs/1905.00436)
+
+#### 51. *Massive Neutrinos Leave Fingerprints on Cosmic Voids*, Kreisch, Pisani, Spergel, et al. [arXiv](https://arxiv.org/abs/1808.07464)
+
 ---
+
