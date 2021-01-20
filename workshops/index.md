@@ -8,7 +8,7 @@ layout: default
 
 ***
 
-Our Science Investigation Team will host frequent community workshops with the goals of building awareness of and broad support for the WFIRST dark energy program and inspiring the community to develop methods and carry out investigations that will maximize the cosmological return from WFIRST. We will gather this way expertise and perspective distinct from our own. Please email Olivier Doré if you have suggestions and would like to be involved.
+Our Science Investigation Team will host frequent community workshops with the goals of building awareness of and broad support for the Roman dark energy program and inspiring the community to develop methods and carry out investigations that will maximize the cosmological return from Roman. We will gather this way expertise and perspective distinct from our own. Please email Olivier Doré if you have suggestions and would like to be involved.
 
 ---
 ---

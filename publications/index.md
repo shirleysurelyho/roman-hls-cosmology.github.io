@@ -78,19 +78,41 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 33. *Cosmic voids: a novel probe to shed light on our Universe*, Pisani,Spergel,Hirata,Ho,Jain,et al. [arXiv](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c..40P/abstract)
 
-#### 34. *Brighter-fatter effect in near-infrared detectors -- I. Theory of flat auto-correlations*, Hirata, Choi, [arXiv](https://arxiv.org/abs/1906.01846)
+#### 34. *Brighter-fatter effect in near-infrared detectors -- I. Theory of flat auto-correlations*, Hirata, Choi, [arXiv](https://ui.adsabs.harvard.edu/abs/2020PASP..132a4501H/abstract)
 
-#### 35. *Brighter-fatter effect in near-infrared detectors -- II. Auto-correlation analysis of H4RG-10 flats*, Choi, Hirata, [arXiv](https://arxiv.org/abs/1906.01847)
+#### 35. *Brighter-fatter effect in near-infrared detectors -- II. Auto-correlation analysis of H4RG-10 flats*, Choi, Hirata, [arXiv](https://ui.adsabs.harvard.edu/abs/2020PASP..132a4502C/abstract)
 
-#### 36. *The Void Size Function in Dynamical Dark Energy Cosmologies*, Verza, Pisani, et al. [arXiv](https://arxiv.org/abs/1906.00409)
+#### 36. *Covariance matrices for galaxy cluster weak lensing: from virial regime to uncorrelated large-scale structure*, Wu, Weinberg, et al. [arXiv](https://arxiv.org/abs/1907.06611)
 
-#### 37. *The bias of cosmic voids in the presence of massive neutrinos*, Schuster, Hamaus, Pisani, et al. [arXiv](https://arxiv.org/abs/1905.00436)
+#### 37. *A Synthetic Roman Space Telescope High-Latitude Imaging Survey: Simulation Suite and the Impact of Wavefront Errors on Weak Gravitational Lensing*, Troxel, Long, Hirata, Choi et al, 2020 [arXiv](https://arxiv.org/abs/1912.09481)
 
-#### 38. *Massive Neutrinos Leave Fingerprints on Cosmic Voids*, Kreisch, Pisani, Spergel, et al. [arXiv](https://arxiv.org/abs/1808.07464)
+#### 38. *Robust and model-independent cosmological constraints from distance measurements*, Zhai, Wang, [arXiv](https://arxiv.org/abs/1811.07425)
 
-#### 39. *Deep+Wide Lensing Surveys will Provide Exquisite Measurements of the Dark Matter Halos of Dwarf Galaxies*, Leauthaud,.., Capak, et al. [arXiv](https://arxiv.org/abs/1905.01433)
+#### 39. *Reconstructing the weak lensing magnification distribution of Type Ia supernovae*, Zhai, Wang, [arXiv](https://arxiv.org/abs/1901.08175)
 
+#### 40. *Prediction of Hα and [OIII] Emission Line Galaxy Number Counts for Future Galaxy Redshift Surveys*, Zhai, et al., [arXiv](https://arxiv.org/abs/1907.09680)
 
+#### 41. *CMB distance priors revisited: effects of dark energy dynamics, spatial curvature, primordial power spectrum, and neutrino parameters*, Zhai, et al. [arXiv](https://arxiv.org/abs/1912.04921)
+
+#### 42. *Forecasting Cosmological Constraints from the Weak Lensing Magnification of Type Ia Supernovae Measured by the Nancy Grace Roman Space Telescope*, Zhai, Wang, Scolnic, [arXiv](https://arxiv.org/abs/2008.06804)
+
+#### 43. *Clustering in the Simulated Hα Galaxy Redshift Survey from Nancy Grace Roman Space Telescope*, Zhai, et al. [arXiv](https://arxiv.org/abs/2008.09746)
+
+#### 44. *Cosmology with galaxy cluster weak lensing: statistical limits and experimental design*, Wu, Weinberg, et al. [arXiv](https://arxiv.org/abs/2012.01956)
+
+#### 45. *Gravitational Wave Detection with Photometric Surveys*, Wang, Pardo, Chang, and Doré [arXiv](https://arxiv.org/abs/2010.02218)
+
+#### 46. *Brighter-fatter effect in near-infrared detectors -- III. Fourier-domain treatment of flat field correlations and application to WFIRST*, Freudenburg, Givans, Choi, Hirata, et al., [arXiv](https://ui.adsabs.harvard.edu/abs/2020PASP..132g4504F/abstract)
+
+#### 47. *The Impact of Interpixel Capacitance in CMOS Detectors on PSF shapes and Implications for WFIRST*, Kannawadi, Shapiro, Mandelbaum, Hirata, Kruk, and Rhodes [arXiv](https://arxiv.org/abs/1512.01570)
+
+#### 48. *The Impact of Light Polarization Effects on Weak Lensing Systematics*, Lin, Tan, Mandelbaum, and Hirata [arXiv](https://arxiv.org/abs/1910.05063)
+
+#### 49. *The Void Size Function in Dynamical Dark Energy Cosmologies*, Verza, Pisani, et al. [arXiv](https://arxiv.org/abs/1906.00409)
+
+#### 50. *The bias of cosmic voids in the presence of massive neutrinos*, Schuster, Hamaus, Pisani, et al. [arXiv](https://arxiv.org/abs/1905.00436)
+
+#### 51. *Massive Neutrinos Leave Fingerprints on Cosmic Voids*, Kreisch, Pisani, Spergel, et al. [arXiv](https://arxiv.org/abs/1808.07464)
 
 ---
 
