@@ -120,5 +120,6 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 54. *A 5% measurement of the gravitational constant in the Large Magellanic Cloud*, Desmond, Sakstein, Jain [arXiv](https://arxiv.org/abs/2012.05028)
 
+#### 55. *Testing f(R) Gravity With Scale Dependent Cosmic Void Velocity Profiles*, Wilson and Bean, [arXiv](https://arxiv.org/abs/2012.05925)
 ---
 
