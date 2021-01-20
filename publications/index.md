@@ -129,5 +129,7 @@ Publications supported or partially supported by our Science Investigation Team 
 #### 58. *Convolution Lagrangian perturbation theory for biased tracers beyond general relativity*, Valogiannis and Bean, [arXiv](https://arxiv.org/abs/1901.03763)
 
 #### 60. *Cross-bispectra Constraints on Modified Gravity Theories from Nancy Grace Roman Space Telescope and Rubin Observatory Legacy Survey of Space and Time*, Heinrich & Doré, [arXiv](https://arxiv.org/abs/2006.03138)
+
+#### 61. *The Aemulus Project IV: Emulating Halo Bias*, McClintock, et al. [arXiv](https://arxiv.org/abs/1907.13167)
 ---
 
