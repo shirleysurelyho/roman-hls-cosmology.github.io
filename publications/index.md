@@ -142,5 +142,12 @@ Publications supported or partially supported by our Science Investigation Team 
 
 #### 66. *Properties of simulated galaxies and supermassive black holes in cosmic voids*, Habouzit, Pisani et al. [arXiv](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..899H/abstract)
 
+#### 67. *Learning the Evolution of the Universe in N-body Simulations*, Chang, .., Ho, et al., [arXiv] (https://arxiv.org/abs/2012.05472)
+
+### 68. *Fast and Accurate Non-Linear Predictions of Universes with Deep Learning*, de Oliveir, .., Ho & Spergel, [arXiv] (https://arxiv.org/abs/2012.00240)
+
+
+
+
 ---
 
